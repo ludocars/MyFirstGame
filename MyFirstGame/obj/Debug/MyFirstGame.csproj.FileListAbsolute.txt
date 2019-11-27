@@ -1,0 +1,7 @@
+F:\Unity\02 Clase\MyFirstGame\MyFirstGame\bin\Debug\MyFirstGame.exe.config
+F:\Unity\02 Clase\MyFirstGame\MyFirstGame\bin\Debug\MyFirstGame.exe
+F:\Unity\02 Clase\MyFirstGame\MyFirstGame\bin\Debug\MyFirstGame.pdb
+F:\Unity\02 Clase\MyFirstGame\MyFirstGame\obj\Debug\MyFirstGame.csprojAssemblyReference.cache
+F:\Unity\02 Clase\MyFirstGame\MyFirstGame\obj\Debug\MyFirstGame.csproj.CoreCompileInputs.cache
+F:\Unity\02 Clase\MyFirstGame\MyFirstGame\obj\Debug\MyFirstGame.exe
+F:\Unity\02 Clase\MyFirstGame\MyFirstGame\obj\Debug\MyFirstGame.pdb

@@ -1,0 +1,25 @@
+-Comandos GIT-
+
+-git config -l /*muestra todas las configuraciones de git*/
+
+-git init /*inicia un proyecto de guid*/
+
+-git config user.name = git config user.name "Carlos Flores"
+/* asigna el nombre del usuario de forma temporal, si se cambia de pc o usuario se debe re-asignar*/
+
+-git config --global user.name
+/*asigna el nombre de usuario para la pc en la que se este trabajando*/
+
+-git config user.emal "carlos_4_92@hotmail.com"
+/*asigna el correo del usuario */
+
+-git remote add origin "link https"
+/*enlasa nuestro gid con el repositorio online*/
+
+-git status /*permite ver el estado de mi git y es el comando inicial*/
+
+-git add MyFirstGame.sln
+
+-git add.
+
+git commit -m /*si no hay mensaje se abrira una consola diferente para salir de ahi :q! o :q!*/
