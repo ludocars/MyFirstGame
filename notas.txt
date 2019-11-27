@@ -22,4 +22,8 @@
 
 -git add.
 
-git commit -m /*si no hay mensaje se abrira una consola diferente para salir de ahi :q! o :q!*/
+-git commit -m /*si no hay mensaje se abrira una consola diferente para salir de ahi :q! o :q!*/
+
+-git push origin master /*sube a web todo lo que hemos avanzado y comentado*/
+
+-
