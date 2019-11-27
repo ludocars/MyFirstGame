@@ -26,4 +26,7 @@
 
 -git push origin master /*sube a web todo lo que hemos avanzado y comentado*/
 
+-git clone url xxx
+/*clona lo que hemos trabajado*/
+
 -
